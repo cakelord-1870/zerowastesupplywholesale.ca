@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://zerowastesupplywholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://zerowastesupplywholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://zerowastesupplywholesale.ca/collections/market-bags.atom"/>
+  <title>The Zero Waste Supply Co. Wholesale Canada</title>
+  <updated>2020-04-22T12:26:29-07:00</updated>
+  <author>
+    <name>The Zero Waste Supply Co. Wholesale Canada</name>
+  </author>
+  <entry>
+    <id>https://zerowastesupplywholesale.ca/products/4651595694170</id>
+    <published>2020-04-22T12:26:29-07:00</published>
+    <updated>2020-04-22T12:26:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerowastesupplywholesale.ca/products/the-produce-bags-set-of-3"/>
+    <title>The Produce Bags</title>
+    <s:type>Market Bags</s:type>
+    <s:vendor>Mason Jar Lids</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/1964/8602/products/reusable-bag-wholesale.jpg?v=1605725743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mason Jar Lids<br>
+        <strong>Type: </strong>Market Bags<br>
+        <strong>Price: </strong>
+            49.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="middle"></td>
+<td valign="top" style="text-align: center;"></td>
+<td valign="top" style="text-align: center;">
+<p><strong>Price Each Set of 3</strong></p>
+</td>
+<td valign="top" style="text-align: center;"><strong>Total</strong></td>
+</tr>
+<tr>
+<td valign="middle">
+<p align="center"><span face="Rockwell" size="3" color="#000000" style="color: #000000; font-family: Rockwell; font-size: medium;">5 Sets of Produce </span><span face="Rockwell" size="3" color="#000000" style="color: #000000; font-family: Rockwell; font-size: medium;">Bags</span></p>
+</td>
+<td valign="top">
+<p align="center"><span face="Copperplate" size="4" color="#000000" style="color: #000000; font-family: Copperplate; font-size: large;">100% Cotton Reusable Produce Bags in 3 Assorted Sizes</span></p>
+</td>
+<td valign="top">
+<p align="center"><span face="Copperplate" size="4" color="#000000" style="color: #000000; font-family: Copperplate; font-size: large;">$9.95</span></p>
+</td>
+<td valign="top">
+<p align="center" style="text-align: center;"><span face="Copperplate" size="4" color="#000000" style="color: #000000; font-family: Copperplate; font-size: large;"><b>$49.75</b></span></p>
+<p align="center" style="text-align: center;"> </p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><strong>Retail:</strong> $19.99</p>
+<p style="text-align: center;"><strong>Estimated Profit Margin:</strong> 50%</p>
+<div style="text-align: center;"><strong>100% Cotton Mesh</strong></div>
+<div style="text-align: center;"><strong>These beauties are great for produce!</strong></div>
+<div style="text-align: center;"><strong>Washing Machine Friendly!</strong></div>
+<div style="text-align: center;"><strong></strong></div>
+<div style="text-align: center;"><strong>Each Set Comes with 3 Assorted Sizes:</strong></div>
+<div style="text-align: center;">Large = 15.75" x 11.80"</div>
+<div style="text-align: center;">Med = 11.80" x 9.85"</div>
+<div style="text-align: center;">Small = 9.95" x 7.85"</div>
+<div style="text-align: center;"><strong> </strong></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">
+<div><strong>How We Source Our Products:</strong></div>
+<div>We Choose Local First</div>
+<div>Canada Second</div>
+<div>North America Third</div>
+<div>If we do not find items that are of the quality we require we go overseas.</div>
+<div>We use manufactures that are monitored by a third party for compliance with FDA standards.</div>
+<div>Items manufactured overseas will never touch the ocean as we have them all delivered by air.</div>
+<div></div>
+<div>This Product is designed, created and finished in Canada, paying employees a fair living wage.</div>
+<div>Consciously Manufactured in China.</div>
+</div>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bag</s:tag>
+    <s:tag>grocery</s:tag>
+    <s:tag>market</s:tag>
+    <s:tag>produce</s:tag>
+    <s:variant>
+      <id>https://zerowastesupplywholesale.ca/products/4651595694170</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.75</s:price>
+      <s:sku>369464002372-5 each</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zerowastesupplywholesale.ca/products/1865559408730</id>
+    <published>2019-06-24T20:29:12-07:00</published>
+    <updated>2019-06-24T20:29:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://zerowastesupplywholesale.ca/products/the-market-bag-refills"/>
+    <title>The Market Bag - 8 COLOURS</title>
+    <s:type>Market Bags</s:type>
+    <s:vendor>Mason Jar Lids</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0048/1964/8602/products/IMG_3530.jpg?v=1572984130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mason Jar Lids<br>
+        <strong>Type: </strong>Market Bags<br>
+        <strong>Price: </strong>
+            10.00 - 44.50
+            <a href="https://zerowastesupplywholesale.ca/products/the-market-bag-refills">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="middle"></td>
+<td valign="top" style="text-align: center;"></td>
+<td valign="top" style="text-align: center;"><strong>Price Each</strong></td>
+<td valign="top" style="text-align: center;"><strong>Total</strong></td>
+</tr>
+<tr>
+<td valign="middle">
+<p align="center"><span face="Rockwell" size="3" color="#000000" style="color: #000000; font-family: Rockwell; font-size: medium;">10 Market </span><span face="Rockwell" size="3" color="#000000" style="color: #000000; font-family: Rockwell; font-size: medium;">Bags</span></p>
+</td>
+<td valign="top">
+<p align="center"><span face="Copperplate" size="4" color="#000000" style="color: #000000; font-family: Copperplate; font-size: large;">100% Cotton Reusable Grocery / Produce Bag in Assorted Colours</span></p>
+</td>
+<td valign="top">
+<p align="center"><span face="Copperplate" size="4" color="#000000" style="color: #000000; font-family: Copperplate; font-size: large;">$4.45</span></p>
+</td>
+<td valign="top">
+<p align="center" style="text-align: center;"><span face="Copperplate" size="4" color="#000000" style="color: #000000; font-family: Copperplate; font-size: large;"><b>44.50</b></span></p>
+<p align="center" style="text-align: center;"> </p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><strong>Retail:</strong> $8.99</p>
+<p style="text-align: center;"><strong>Estimated Profit Margin:</strong> 50%</p>
+<div style="text-align: center;"><strong>100% Cotton</strong></div>
+<div style="text-align: center;"><strong>These beauties are great for produce, groceries, and looking awesome while saving the planet.</strong></div>
+<div style="text-align: center;"><strong>Nailed it!</strong></div>
+<div style="text-align: center;"><strong> </strong></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">
+<div><strong>How We Source Our Products:</strong></div>
+<div>We Choose Local First</div>
+<div>Canada Second</div>
+<div>North America Third</div>
+<div>If we do not find items that are of the quality we require we go overseas.</div>
+<div>We use manufactures that are monitored by a third party for compliance with FDA standards.</div>
+<div>Manufactured in China.</div>
+<div></div>
+<div>Some Lifestyle Pictures Provided by One of Our Awesome Partners:  <a href="http://onalex.ca" target="_blank" title="On Alex Street" rel="noopener noreferrer">onalex.ca</a>
+</div>
+</div>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bag</s:tag>
+    <s:tag>grocery</s:tag>
+    <s:tag>market</s:tag>
+    <s:tag>produce</s:tag>
+    <s:variant>
+      <id>https://zerowastesupplywholesale.ca/products/1865559408730</id>
+      <title>Blackout Black</title>
+      <s:price currency="CAD">44.50</s:price>
+      <s:sku>369464002211-1-10 each</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerowastesupplywholesale.ca/products/1865559408730</id>
+      <title>Ah Natural</title>
+      <s:price currency="CAD">44.50</s:price>
+      <s:sku>369464002211-2-10 each</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerowastesupplywholesale.ca/products/1865559408730</id>
+      <title>Dusty Rose</title>
+      <s:price currency="CAD">44.50</s:price>
+      <s:sku>369464002211-3-10 each</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerowastesupplywholesale.ca/products/1865559408730</id>
+      <title>Hottest Pink</title>
+      <s:price currency="CAD">44.50</s:price>
+      <s:sku>369464002211-4-10 each</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerowastesupplywholesale.ca/products/1865559408730</id>
+      <title>Ruby Red</title>
+      <s:price currency="CAD">44.50</s:price>
+      <s:sku>369464002211-5-10 each</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerowastesupplywholesale.ca/products/1865559408730</id>
+      <title>Ocean Blue</title>
+      <s:price currency="CAD">44.50</s:price>
+      <s:sku>369464002211-6-10 each</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerowastesupplywholesale.ca/products/1865559408730</id>
+      <title>Sky Blue</title>
+      <s:price currency="CAD">44.50</s:price>
+      <s:sku>369464002211-7-10 each</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerowastesupplywholesale.ca/products/1865559408730</id>
+      <title>Forest Green</title>
+      <s:price currency="CAD">44.50</s:price>
+      <s:sku>369464002211-8-10 each</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zerowastesupplywholesale.ca/products/1865559408730</id>
+      <title>Display Jar</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>5f51619ca7e53</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+</feed>
